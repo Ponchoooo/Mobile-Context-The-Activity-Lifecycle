@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        if (getSupportActionBar() != null) getSupportActionBar().setTitle("ID: 1234567");
+        if (getSupportActionBar() != null) getSupportActionBar().setTitle("ID: 11500160");
 
         TextView tv = findViewById(R.id.tvDepartment);
         Button btn = findViewById(R.id.btnChangeName);
